@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Omar Alqaysi</h1>
-<h3 align="center">An enthusiast data scientist from Turkey</h3>
+<h3 align="center">An enthusiast data scientist</h3>
 
 - 🌱 I’m currently learning **Data scraping**
 - 💞️ I’m looking to collaborate on data analysis projects, no matter the field.
